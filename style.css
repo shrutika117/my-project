@@ -1,0 +1,141 @@
+body{
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    align-content: center !important;
+}
+#mainpara{
+    
+    margin-top: 10px !important;
+    font-size: 20px !important;
+    font-family: sans-serif !important;
+    color: red;
+    font-weight: bold !important;
+}
+#bottompara{
+    margin-top: 30px !important;
+    color: rgb(194, 194, 163);
+}
+
+ul li{
+    display:inline !important;
+    margin: 40px !important;
+    list-style-type: none !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+.btn{
+    
+    margin: 5px !important;
+    color: white !important;
+}
+#topdiv{
+        background-color:  rgb(255, 230, 255);
+       margin-top: 20px !important;
+}
+#btn1{
+    background-color: rgb(102, 0, 204);
+    padding-right: 30px !important;
+    margin-left: 80px !important;
+}
+#btn2{
+    background-color: rgb(218, 179, 255);
+    padding-right: 30px !important;
+    margin-left: 20px !important;
+}
+#btn3{
+    background-color: rgb(255, 128, 128);
+    padding-right: 30px !important;
+    margin-left: 30px !important;
+}
+#btn4{
+    background-color: rgb(77, 77, 255);
+    padding-right: 30px !important;
+    margin-left: 20px !important;
+}
+span{
+    color: rgb(194, 194, 163);
+    
+}
+
+#draft{
+    background-color: rgb(255, 128, 128);
+    
+
+}
+td{
+    color: blue !important;
+   
+}
+.finlist{
+    margin-left: 6px !important;
+}
+.tabledec{
+    width: 350px;
+    height:40px;
+    font-size: 15px;
+    text-align: center;
+    padding-right: 20px;
+    vertical-align: top;
+    margin: 60px !important;
+}
+.tabledec{
+    vertical-align: top;
+    padding-left: 8px;
+}
+#tdbtn1{
+    background-color:  rgb(255, 128, 128) !important;
+}
+#tdbtn2{
+    background-color:  rgb(77, 77, 255) !important;
+}
+#tdbtn3{
+    background-color: rgb(102, 0, 204) !important;
+}
+#tdbtn4{
+    background-color:  rgb(255, 128, 128) !important;
+}
+#tdbtn5{
+    background-color:  rgb(77, 77, 255) !important;
+}
+#tdbtn6{
+    background-color:  rgb(255, 128, 128) !important;
+}
+#tdbtn7{
+    background-color: rgb(102, 0, 204) !important;
+}
+#tdbtn8{
+    background-color:  rgb(255, 128, 128) !important;
+}
+#tdbtn9{
+    background-color: rgb(102, 0, 204) !important;
+}
+#tdbtn10{
+    background-color:  rgb(77, 77, 255) !important;
+}
+#tdbtn11{
+    background-color:  rgb(255, 128, 128) !important;
+}
+#tdbtn12{
+    background-color:  rgb(77, 77, 255) !important;
+}
+#tdbtn13{
+    background-color: rgb(102, 0, 204) !important;
+}
+#tdbtn14{
+    background-color:  rgb(255, 128, 128) !important;
+}
+#tdbtn15{
+    background-color:  rgb(77, 77, 255) !important;
+}
+
+
+.tabledeccolr{
+
+}
+#tdcolr1{
+    color: rgb(255, 128, 128) !important;
+
+}
+#tdcolr2{
+   color: rgb(255, 128, 128) !important;
+
+}
